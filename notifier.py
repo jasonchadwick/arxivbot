@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.6
+#!/usr/bin/env python3
 
 import traceback
 import requests
@@ -16,7 +16,7 @@ def main():
         msg = traceback.format_exc()
         print(msg)
         print(e)
-        emailer.send(msg, subject='ArXiv Notifier Error: {}'.format(e), to=TO_DEV)
+        # emailer.send(msg, subject='ArXiv Notifier Error: {}'.format(e), to=TO_DEV)
 
 def run():
     try:
@@ -50,15 +50,16 @@ def run():
 
             slack_post_result(r)
 
-        subject = 'ArXiv Update ({} new paper{})'.format(
+        subject = 'arXiv update ({} new paper{})'.format(
                         len(results), 's'*(len(results)!=1))
-        emailer.send(txt, subject=subject, to=TO)
+        # emailer.send(txt, subject=subject, to=TO)
 
 def slack_post_header(s, results):
     slack_post_raw(
         as_user=False,
         icon_emoji=':books:',
-        text='@channel\n:books: <{}|{} new paper{} on arXiv>'.format(
+        # KM: @channel posting disabled
+        text='\n:books: <{}|{} new paper{} on arXiv>'.format(
                 s.url, len(results), 's'*(len(results) != 1)),
         link_names=True,
         unfurl_links=False,
