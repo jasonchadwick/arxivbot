@@ -6,7 +6,7 @@ from datetime import datetime
 
 import scrape
 import emailer
-from config import ID_LOG, TO, TO_DEV, SLACK_POST
+from config import ID_LOG, SLACK_POST
 
 
 def main():
