@@ -5,7 +5,6 @@ import requests
 from datetime import datetime
 
 import scrape
-# import emailer
 from config import ID_LOG, SLACK_POST
 
 
@@ -16,7 +15,8 @@ def main():
         msg = traceback.format_exc()
         print(msg)
         print(e)
-        # emailer.send(msg, subject='ArXiv Notifier Error: {}'.format(e), to=TO_DEV)
+        # TODO: right now if there's an error, it just prints
+
 
 def run():
     try:
@@ -52,7 +52,7 @@ def run():
 
         subject = 'arXiv update ({} new paper{})'.format(
                         len(results), 's'*(len(results)!=1))
-        # emailer.send(txt, subject=subject, to=TO)
+
 
 def slack_post_header(s, results):
     slack_post_raw(
@@ -65,8 +65,10 @@ def slack_post_header(s, results):
         unfurl_media=False,
         mrkdwn=True)
 
+
 def slack_post_result(r):
     slack_post_raw(**r.slack_post())
+
 
 def slack_post_raw(**msg):
     headers = {'content-type': 'application/json'}
