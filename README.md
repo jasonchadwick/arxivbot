@@ -15,7 +15,6 @@ OR
 `$ ./notifier.py theory`
 
 
-
 ## Run Automatically
 
 Add this line to crontab (`$ crontab -e`):
