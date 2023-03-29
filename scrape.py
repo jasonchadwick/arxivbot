@@ -79,10 +79,10 @@ class Scraper:
 
     @staticmethod
     def _scrape_nodes(url):
-        response = requests.get(url, verify=False)
+        response = requests.get(url)
         assert 200 <= response.status_code < 400, (
             'URL returned status code {}: {}'.format(response.status_code, url))
 
-        page = BeautifulSoup(response.content, 'html5lib')
+        page = BeautifulSoup(response.content, 'html.parser')
         nodes = page.body.find_all('li', attrs={'class':'arxiv-result'})
         return nodes
