@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 
+import sys
 import traceback
 import requests
 from datetime import datetime
 
 import scrape
-from config import ID_LOG, SLACK_POST
+from config import ID_LOGS, SLACK_POSTS
+
+THEORY_URL = 'https://arxiv.org/search/advanced?advanced=&terms-0-term=cs.CC&terms-0-operator=AND&terms-0-field=all&terms-1-term=cs.DS&terms-1-operator=OR&terms-1-field=all&terms-2-term=quantum&terms-2-operator=AND&terms-2-field=all&terms-3-term=cs.DS&terms-3-operator=OR&terms-3-field=all&terms-4-term=graphs&terms-4-operator=AND&terms-4-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first'
 
 
 def main():
@@ -77,4 +80,14 @@ def slack_post_raw(**msg):
 
 
 if __name__ == '__main__':
-    main()
+    print(sys.argv)
+    if sys.argv[1] == 'theory':
+        ID_LOG = ID_LOGS['theory']
+        SLACK_POST = SLACK_POSTS['theory']
+        main(url=THEORY_URL)
+    elif sys.argv[1] == 'quantum':
+        ID_LOG = ID_LOGS['quantum']
+        SLACK_POST = SLACK_POSTS['quantum']
+        main()
+    else:
+        print("bad argument; which query do I use?")
