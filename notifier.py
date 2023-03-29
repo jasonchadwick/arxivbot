@@ -5,7 +5,7 @@ import requests
 from datetime import datetime
 
 import scrape
-import emailer
+# import emailer
 from config import ID_LOG, SLACK_POST
 
 
