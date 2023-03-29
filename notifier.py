@@ -80,6 +80,7 @@ def slack_post_raw(**msg):
 
 
 if __name__ == '__main__':
+    print("Running script at", datetime.now())
     print(sys.argv)
     if sys.argv[1] == 'theory':
         ID_LOG = ID_LOGS['theory']
