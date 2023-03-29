@@ -55,8 +55,9 @@ class Scraper:
         return prefix + urllib.parse.urlencode(query_params)
 
     @classmethod
-    def with_search_query(cls, params=(), **kw_params):
-        url = cls.get_arxiv_search_query(params=params, **kw_params)
+    def with_search_query(cls, url=None, params=()):
+        if url is None:
+            url = cls.get_arxiv_search_query(params=params)
         return cls(url)
 
     @property

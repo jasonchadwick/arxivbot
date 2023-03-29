@@ -72,8 +72,8 @@ def slack_post_result(r):
 
 def slack_post_raw(**msg):
     headers = {'content-type': 'application/json'}
-    response = requests.post(SLACK_POST, headers=headers, json=msg)
-    print(response.status_code)
+    # response = requests.post(SLACK_POST, headers=headers, json=msg)
+    # print(response.status_code)
 
 
 if __name__ == '__main__':
