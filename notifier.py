@@ -11,9 +11,9 @@ from config import ID_LOGS, SLACK_POSTS
 THEORY_URL = 'https://arxiv.org/search/advanced?advanced=&terms-0-term=cs.CC&terms-0-operator=AND&terms-0-field=all&terms-1-term=cs.DS&terms-1-operator=OR&terms-1-field=all&terms-2-term=quantum&terms-2-operator=AND&terms-2-field=all&terms-3-term=cs.DS&terms-3-operator=OR&terms-3-field=all&terms-4-term=graphs&terms-4-operator=AND&terms-4-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first'
 
 
-def main():
+def main(url=None):
     try:
-        run()
+        run(url)
     except Exception as e:
         msg = traceback.format_exc()
         print(msg)
@@ -21,14 +21,14 @@ def main():
         # TODO: right now if there's an error, it just prints
 
 
-def run():
+def run(url=None):
     try:
         with open(ID_LOG, 'r') as f:
             known_ids = set(l.strip() for l in f if len(l)>2)
     except FileNotFoundError:
         known_ids = set()
 
-    s = scrape.Scraper.with_search_query()
+    s = scrape.Scraper.with_search_query(url=url)
     s.scrape()
 
     results = tuple(r for r in s.results if r.paper_id not in known_ids)
@@ -75,8 +75,8 @@ def slack_post_result(r):
 
 def slack_post_raw(**msg):
     headers = {'content-type': 'application/json'}
-    # response = requests.post(SLACK_POST, headers=headers, json=msg)
-    # print(response.status_code)
+    response = requests.post(SLACK_POST, headers=headers, json=msg)
+    print(response.status_code)
 
 
 if __name__ == '__main__':
