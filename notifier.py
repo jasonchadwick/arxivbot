@@ -58,8 +58,7 @@ def slack_post_header(s, results):
     slack_post_raw(
         as_user=False,
         icon_emoji=':books:',
-        # KM: @channel posting disabled
-        text='\n:books: <{}|{} new paper{} on arXiv>'.format(
+        text='@channel\n:books: <{}|{} new paper{} on arXiv>'.format(
                 s.url, len(results), 's'*(len(results) != 1)),
         link_names=True,
         unfurl_links=False,
