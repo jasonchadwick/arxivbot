@@ -1,0 +1,8215 @@
+Running script at 2025-07-01 18:35:01.797328
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-01 19:30:01.291004
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-01 20:30:01.882302
+['./notifier.py', 'quantum']
+39 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-01 21:30:01.487424
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-01 22:30:01.759058
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-01 23:30:01.944686
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 00:30:01.365380
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 01:30:01.708040
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 02:30:01.184854
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 03:30:02.105727
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 04:30:01.500829
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 05:30:01.383977
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 06:30:01.863989
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 07:30:01.742138
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 08:30:01.686246
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 09:30:01.265445
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 10:30:01.426348
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 11:30:01.983901
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 12:30:01.783449
+['./notifier.py', 'quantum']
+2 new results
+200
+200
+200
+Running script at 2025-07-02 13:30:01.911220
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 14:30:01.610396
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 15:30:01.703062
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 16:30:01.662135
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 17:30:01.633077
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 18:30:01.442354
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 19:30:01.957253
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 20:30:01.973243
+['./notifier.py', 'quantum']
+39 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-02 21:30:01.435044
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 22:30:01.641327
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-02 23:30:01.729489
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 00:30:01.978635
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 01:30:01.250999
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 02:30:02.024797
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 03:30:01.817353
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 04:30:02.223038
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 05:30:01.820956
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 06:30:01.625440
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 07:30:01.665448
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 08:30:01.282294
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 09:30:01.357428
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 10:30:01.817164
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 11:30:02.011820
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 12:30:01.547251
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 13:30:01.846973
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 14:30:02.076099
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 15:30:01.460305
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 16:30:01.317362
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 17:30:01.981381
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 18:30:01.971125
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 19:30:01.310195
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 20:30:01.823563
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-03 21:30:01.367370
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 22:30:01.602170
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-03 23:30:01.559470
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 00:30:02.081350
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 01:30:01.175277
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 02:30:01.881544
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 03:30:01.783188
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 04:30:01.479490
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 05:30:01.549663
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 06:30:01.926882
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 07:30:01.659193
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 08:30:02.063426
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 09:30:02.071618
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 10:30:01.448564
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 11:30:01.590492
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 12:30:01.447553
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 13:30:01.678267
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 14:30:01.485016
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 15:30:01.343576
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 16:30:01.352958
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 17:30:01.585021
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 18:30:01.915640
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 19:30:02.093368
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 20:30:01.959068
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 21:30:01.877072
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 22:30:01.154001
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-04 23:30:02.002025
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 00:30:01.275045
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 01:30:01.230602
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 02:30:01.704304
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 03:30:02.065505
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 04:30:01.292766
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 05:30:01.572834
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 06:30:01.791056
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 07:30:01.888642
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 08:30:01.811840
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 09:30:01.977162
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 10:30:01.812521
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 11:30:01.679614
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 12:30:01.501633
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 13:30:01.465223
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 14:30:01.906549
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 15:30:01.747045
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 16:30:02.014991
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 17:30:01.440786
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 18:30:01.595602
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 19:30:01.128094
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 20:30:01.437333
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 21:30:01.178799
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 22:30:01.610544
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-05 23:30:01.470772
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 00:30:01.493550
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 01:30:01.310486
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 02:30:01.494599
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 03:30:01.310525
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 04:30:01.180776
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 05:30:01.775982
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 06:30:01.541603
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 07:30:01.618840
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 08:30:01.370458
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 09:30:01.447268
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 10:30:01.781386
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 11:30:01.293610
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 12:30:01.281430
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 13:30:01.344804
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 14:30:01.569934
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 15:30:01.879593
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 16:30:01.730493
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 17:30:02.005195
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 18:30:01.429768
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 19:30:02.092844
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 20:30:01.592907
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 21:30:01.980648
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 22:30:02.145305
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-06 23:30:01.565286
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 00:30:01.498668
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 01:30:01.879158
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 02:30:01.341005
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 03:30:01.295019
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 04:30:01.256963
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 05:30:01.942334
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 06:30:01.912829
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 07:30:01.744506
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 08:30:01.250530
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 09:30:01.331112
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 10:30:02.025142
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 11:30:01.244126
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 12:30:01.507787
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 13:30:01.244557
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 14:30:01.407190
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 15:30:01.781718
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 16:30:01.907197
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 17:30:02.042661
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 18:30:02.163424
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 19:30:01.812687
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-07 20:30:01.308760
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-07 21:30:01.362252
+['./notifier.py', 'quantum']
+35 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-07 22:30:01.723018
+['./notifier.py', 'quantum']
+7 new results
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-07 23:30:02.182988
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 00:30:01.636120
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 01:30:01.335732
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 02:30:01.476386
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 03:30:01.352846
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 04:30:01.913741
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 05:30:02.001620
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 06:30:01.604359
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 07:30:01.982596
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 08:30:02.013292
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 09:30:01.393173
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 10:30:01.890514
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 11:30:01.968100
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 12:30:01.475248
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 13:30:01.545058
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 14:30:01.594533
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 15:30:01.673459
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 16:30:02.051219
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 17:30:01.705551
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 18:30:01.771247
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 19:30:01.815285
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 20:30:01.863961
+['./notifier.py', 'quantum']
+29 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-08 21:30:01.502813
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 22:30:01.719896
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-08 23:30:01.488217
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 00:30:01.820043
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 01:30:01.810960
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 02:30:01.494687
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 03:30:01.479197
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 04:30:01.696274
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 05:30:01.873576
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 06:30:02.231493
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 07:30:01.417721
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 08:30:01.615659
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 09:30:01.969165
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 10:30:01.442400
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 11:30:01.637537
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 12:30:01.922385
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 13:30:02.091541
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 14:30:02.175194
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 15:30:02.091095
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 16:30:01.354408
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 17:30:01.383217
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 18:30:02.044144
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 19:30:01.850236
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 20:30:02.158759
+['./notifier.py', 'quantum']
+25 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-09 21:30:02.031459
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 22:30:02.212401
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-09 23:30:01.343239
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 00:30:01.433300
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 01:30:01.698248
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 02:30:01.935943
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 03:30:01.698140
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 04:30:01.653296
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 05:30:01.963580
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 06:30:01.790813
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 07:30:01.635119
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 08:30:01.796827
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 09:30:01.611749
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 10:30:01.426875
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 11:30:01.479943
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 12:30:01.346967
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 13:30:01.384580
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 14:30:02.131482
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 15:30:01.506340
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 16:30:01.622442
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 17:30:01.555649
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 18:30:01.349012
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 19:30:01.379184
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 20:30:01.573547
+['./notifier.py', 'quantum']
+31 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-10 21:30:01.803832
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 22:30:01.243369
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-10 23:30:01.460326
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 00:30:01.959139
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 01:30:01.358441
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 02:30:01.230822
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 03:30:01.697453
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 04:30:01.506020
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 05:30:02.174300
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 06:30:01.484301
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 07:30:01.833272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 08:30:01.985996
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 09:30:01.330834
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 10:30:01.581537
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 11:30:01.955217
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 12:30:02.159553
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 13:30:02.163952
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 14:30:01.463693
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 15:30:01.916025
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 16:30:01.723440
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 17:30:01.825293
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 18:30:02.110151
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 19:30:01.967698
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 20:30:02.105560
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 21:30:01.303031
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 22:30:01.306125
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-11 23:30:02.084048
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 00:30:01.806674
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 01:30:01.401307
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 02:30:02.131879
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 03:30:01.240385
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 04:30:01.227966
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 05:30:01.476268
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 06:30:01.689000
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 07:30:01.560557
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 08:30:01.809297
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 09:30:01.475702
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 10:30:01.394812
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 11:30:01.224206
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 12:30:01.825012
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 13:30:01.627748
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 14:30:01.570923
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 15:30:01.599196
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 16:30:01.513301
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 17:30:01.474413
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 18:30:01.479633
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 19:30:01.387171
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 20:30:01.260591
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 21:30:02.030822
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 22:30:01.596450
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-12 23:30:01.835315
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 00:30:01.749902
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 01:30:01.398056
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 02:30:01.416717
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 03:30:02.071302
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 04:30:01.735674
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 05:30:01.899924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 06:30:01.737846
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 07:30:01.475755
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 08:30:02.022141
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 09:30:01.665662
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 10:30:01.276651
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 11:30:02.076272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 12:30:02.132116
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 13:30:01.714002
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 14:30:01.204046
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 15:30:01.795490
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 16:30:01.263686
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 17:30:01.154124
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 18:30:01.959870
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 19:30:01.517591
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 20:30:01.497458
+['./notifier.py', 'quantum']
+39 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-13 21:30:01.721596
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 22:30:01.278897
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-13 23:30:01.642598
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 00:30:01.994035
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 01:30:01.425835
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 02:30:01.844948
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 03:30:01.336974
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 04:30:01.936655
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 05:30:01.904486
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 06:30:01.220073
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 07:30:01.225194
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 08:30:01.819015
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 09:30:01.432461
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 10:30:01.786080
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 11:30:01.312493
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 12:30:01.400149
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 13:30:02.101657
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 14:30:01.666924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 15:30:01.337357
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 16:30:02.067558
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 17:30:01.662557
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 18:30:01.834406
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 19:30:01.453242
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 20:30:01.829899
+['./notifier.py', 'quantum']
+40 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-14 21:30:01.955910
+['./notifier.py', 'quantum']
+16 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-14 22:30:02.086686
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-14 23:30:01.661746
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 00:30:01.232150
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 01:30:02.427918
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 02:30:01.397040
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 03:30:01.313729
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 04:30:02.049581
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 05:30:01.422084
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 06:30:01.391927
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 07:30:01.822280
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 08:30:01.830577
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-15 09:30:01.491419
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 13:30:01.499494
+['./notifier.py', 'quantum']
+80 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-17 14:30:02.095524
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 15:30:01.858548
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 16:30:01.629120
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 17:30:01.216383
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 18:30:02.011603
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 19:30:01.150443
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 20:30:01.855801
+['./notifier.py', 'quantum']
+49 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-17 21:30:01.346886
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 22:30:01.886830
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-17 23:30:01.826110
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 00:30:01.731437
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 01:30:01.403590
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 02:30:01.281648
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 03:30:01.291295
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 04:30:01.546693
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 05:30:01.609461
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 06:30:01.332639
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 07:30:01.245155
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 08:30:01.756459
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 09:30:01.816368
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 10:30:01.550027
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 11:30:01.570212
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 12:30:01.857878
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 13:30:01.674265
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 14:30:01.690889
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 15:30:01.500128
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 16:30:02.081351
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 17:30:01.912278
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 18:30:01.629938
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 19:30:01.499601
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 20:30:01.310990
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 21:30:01.301870
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 22:30:01.343937
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-18 23:30:01.194984
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 00:30:02.071638
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 01:30:01.938210
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 02:30:01.649993
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 03:30:01.545294
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 04:30:01.228779
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 05:30:01.261403
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 06:30:01.913008
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 07:30:01.744406
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 08:30:01.497386
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 09:30:01.597060
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 10:30:01.491287
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 11:30:01.331423
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 12:30:01.173123
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 13:30:02.031752
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 14:30:01.859655
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 15:30:01.745696
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 16:30:01.463352
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 17:30:01.346074
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 18:30:01.581669
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 19:30:01.188328
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 20:30:01.901767
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 21:30:01.931680
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 22:30:01.785289
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-19 23:30:01.668196
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 00:30:01.368208
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 01:30:01.211087
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 02:30:01.828678
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 03:30:01.876721
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 04:30:01.737594
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 05:30:01.370749
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 06:30:01.973851
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 07:30:01.828983
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 08:30:01.483980
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 09:30:01.302151
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 10:30:01.978928
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 11:30:01.666681
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 12:30:01.172730
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 13:30:02.016894
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 14:30:01.882729
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 15:30:01.749647
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 16:30:01.602529
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 17:30:01.429730
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 18:30:01.337801
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 19:30:01.167102
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 20:30:01.424863
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-20 21:30:02.025636
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 22:30:02.063368
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-20 23:30:01.167428
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 00:30:01.212729
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 01:30:01.905597
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 02:30:01.715995
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 03:30:01.659437
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 04:30:01.609973
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 05:30:01.497610
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 06:30:02.039693
+['./notifier.py', 'quantum']
+Traceback (most recent call last):
+  File "/home/jchadwick/arxivbot/./notifier.py", line 15, in main
+    run(url)
+  File "/home/jchadwick/arxivbot/./notifier.py", line 31, in run
+    s.scrape()
+  File "/home/jchadwick/arxivbot/scrape.py", line 47, in scrape
+    self._setup_result_nodes()
+  File "/home/jchadwick/arxivbot/scrape.py", line 81, in _setup_result_nodes
+    self._result_nodes = self._scrape_nodes(self.url)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jchadwick/arxivbot/scrape.py", line 86, in _scrape_nodes
+    assert 200 <= response.status_code < 400, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+
+URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+Running script at 2025-07-21 07:30:01.189176
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 08:30:01.559520
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 09:30:02.075555
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 10:30:01.725015
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 11:30:01.698193
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 12:30:01.383023
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 13:30:01.278522
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 14:30:01.433244
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 15:30:01.202699
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 16:30:01.862409
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 17:30:01.636318
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 18:30:01.264116
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 19:30:02.075821
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 20:30:01.570364
+['./notifier.py', 'quantum']
+28 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-21 21:30:01.570918
+['./notifier.py', 'quantum']
+18 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-21 22:30:01.293616
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-21 23:30:01.906760
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 00:30:01.273753
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 01:30:02.115943
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 02:30:01.767944
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 03:30:01.658136
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 04:30:01.751905
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 05:30:01.815221
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 06:30:01.363902
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 07:30:01.186499
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 08:30:01.532159
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 09:30:01.151650
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 10:30:01.524195
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 11:30:02.112493
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 12:30:02.257467
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 13:30:01.375073
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 14:30:01.386125
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 15:30:01.826939
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 16:30:02.003632
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 17:30:01.388222
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 18:30:01.717421
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 19:30:01.879857
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 20:30:01.802889
+['./notifier.py', 'quantum']
+41 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-22 21:30:01.687790
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 22:30:01.862879
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-22 23:30:02.226979
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 00:30:01.359375
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 01:30:01.877294
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 02:30:01.796828
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 03:30:01.485671
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 04:30:02.116345
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 05:30:01.870219
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 06:30:01.452387
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 07:30:01.426565
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 08:30:01.561454
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 09:30:01.288639
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 10:30:01.707047
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 11:30:01.446975
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 12:30:02.131493
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 13:30:01.748240
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 14:30:02.042995
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 15:30:01.582061
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 16:30:01.964327
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 17:30:01.501925
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 18:30:01.291272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 19:30:02.064871
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 20:30:02.232354
+['./notifier.py', 'quantum']
+43 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-23 21:30:01.936622
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 22:30:01.675161
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-23 23:30:01.554079
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 00:30:01.965316
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 01:30:01.288259
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 02:30:02.026528
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 03:30:01.610850
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 04:30:01.620149
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 05:30:01.752818
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 06:30:01.850184
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 07:30:01.882645
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 08:30:01.348132
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 09:30:01.502261
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 10:30:01.503839
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 11:30:02.131653
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 12:30:01.769746
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 13:30:01.543085
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 14:30:01.262505
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 15:30:02.031965
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 16:30:01.676002
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 17:30:01.562870
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 18:30:01.668630
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 19:30:01.735141
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 20:30:01.219185
+['./notifier.py', 'quantum']
+25 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-24 21:30:01.966837
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 22:30:01.376819
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-24 23:30:01.887592
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 00:30:01.190828
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 01:30:01.355971
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 02:30:01.512432
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 03:30:01.972677
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 04:30:01.788452
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 05:30:01.571233
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 06:30:01.407959
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 07:30:01.125437
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 08:30:01.925175
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 09:30:01.166709
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 10:30:01.799378
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 11:30:01.338403
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 12:30:01.870779
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 13:30:01.595171
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 14:30:02.042319
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 15:30:01.721150
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 16:30:01.500242
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 17:30:02.121618
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 18:30:01.858530
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 19:30:01.401978
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 20:30:02.069371
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 21:30:01.562152
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 22:30:01.981842
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-25 23:30:01.411898
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 00:30:01.162528
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 01:30:01.534058
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 02:30:01.375418
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 03:30:01.555835
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 04:30:01.941866
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 05:30:02.090693
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 06:30:01.873471
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 07:30:01.735723
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 08:30:01.400162
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 09:30:01.158741
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 10:30:01.609693
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 11:30:01.292951
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 12:30:01.516433
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 13:30:01.934646
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 14:30:01.711833
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 15:30:01.493527
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 16:30:01.333708
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 17:30:02.105544
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 18:30:01.594253
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 19:30:01.313517
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 20:30:01.778785
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 21:30:01.500631
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 22:30:01.987129
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-26 23:30:01.707654
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 00:30:01.523435
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 01:30:01.261285
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 02:30:01.735189
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 03:30:01.432065
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 04:30:01.330371
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 05:30:01.385590
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 06:30:01.252205
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 07:30:01.695288
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 08:30:02.036338
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 09:30:01.619412
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 10:30:01.322421
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 11:30:01.902106
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 12:30:01.697976
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 13:30:01.262591
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 14:30:01.707148
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 15:30:01.205372
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 16:30:01.722214
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 17:30:01.192370
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 18:30:02.053841
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 19:30:01.736735
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 20:30:01.477555
+['./notifier.py', 'quantum']
+40 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-27 21:30:01.320932
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 22:30:01.124864
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-27 23:30:02.116752
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 00:30:01.711810
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 01:30:01.201207
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 02:30:01.915625
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 03:30:01.167131
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 04:30:01.848769
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 05:30:01.816474
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 06:30:01.482429
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 07:30:01.390274
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 08:30:01.635390
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 09:30:01.684822
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 10:30:01.429410
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 11:30:01.867155
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 12:30:01.710719
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 13:30:01.414537
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 14:30:02.103474
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 15:30:01.889412
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 16:30:01.861042
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 17:30:01.565349
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 18:30:01.902887
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 19:30:01.843646
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 20:30:01.742436
+['./notifier.py', 'quantum']
+29 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-28 21:30:01.132966
+['./notifier.py', 'quantum']
+21 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-28 22:30:01.861365
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-28 23:30:01.625194
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 00:30:01.643794
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 01:30:01.451988
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 02:30:01.311877
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 03:30:01.130601
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 04:30:01.961117
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 05:30:01.683567
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 06:30:01.560139
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 07:30:01.438651
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 08:30:01.181466
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 09:30:01.507980
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 10:30:01.289190
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 11:30:01.455647
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 12:30:01.639236
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 13:30:01.792737
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 14:30:01.687249
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 15:30:01.180202
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 16:30:01.248989
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 17:30:01.216936
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 18:30:01.985830
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 19:30:01.821968
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 20:30:01.859778
+['./notifier.py', 'quantum']
+38 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-29 21:30:01.681673
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 22:30:01.758146
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-29 23:30:01.540248
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 00:30:01.936205
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 01:30:01.516058
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 02:30:01.888265
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 03:30:01.123729
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 04:30:02.097473
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 05:30:01.230385
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 06:30:01.170301
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 07:30:01.802810
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 08:30:01.824288
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 09:30:01.972093
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 10:30:01.158320
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 11:30:01.209658
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 12:30:02.138254
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 13:30:01.191850
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 14:30:01.700082
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 15:30:01.779503
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 16:30:01.787576
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 17:30:01.713928
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 18:30:01.860534
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 19:30:01.875309
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 20:30:01.824851
+['./notifier.py', 'quantum']
+42 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-30 21:30:01.617629
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 22:30:01.821750
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-30 23:30:01.759298
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 00:30:01.856634
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 01:30:01.146704
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 02:30:01.897667
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 03:30:01.529718
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 04:30:01.342032
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 05:30:01.193197
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 06:30:02.013309
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 07:30:01.809399
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 08:30:01.394924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 09:30:01.801790
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 10:30:01.889118
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 11:30:01.547590
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 12:30:02.081818
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 13:30:01.230129
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 14:30:01.684304
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 15:30:01.233410
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 16:30:01.751598
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 17:30:01.905627
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 18:30:01.504873
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 19:30:02.079600
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 20:30:01.208560
+['./notifier.py', 'quantum']
+40 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-07-31 21:30:01.531428
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 22:30:01.433250
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-07-31 23:30:01.154752
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 00:30:01.622190
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 01:30:01.617826
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 02:30:01.950840
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 03:30:01.923729
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 04:30:01.782848
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 05:30:01.413473
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 06:30:01.604470
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 07:30:02.115641
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 08:30:01.935811
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 09:30:01.821346
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 10:30:01.621419
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 11:30:01.658729
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 12:30:01.531168
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 13:30:01.521127
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 14:30:01.511177
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 15:30:01.334510
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 16:30:02.088016
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 17:30:01.597877
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 18:30:01.237423
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 19:30:01.877333
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 20:30:01.792117
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 21:30:01.344452
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 22:30:01.693796
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-01 23:30:01.318602
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 00:30:01.844846
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 01:30:01.405846
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 02:30:02.050465
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 03:30:01.869552
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 04:30:01.716362
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 05:30:01.526061
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 06:30:02.073268
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 07:30:02.011294
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 08:30:01.885748
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 09:30:01.513030
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 10:30:01.394898
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 11:30:01.189768
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 12:30:01.950750
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 13:30:01.685297
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 14:30:01.241178
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 15:30:01.173315
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 16:30:01.771589
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 17:30:01.221192
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 18:30:01.348808
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 19:30:02.124087
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 20:30:01.844030
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 21:30:01.686462
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 22:30:01.580448
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-02 23:30:01.348225
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 00:30:02.081768
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 01:30:01.664651
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 02:30:02.043801
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 03:30:01.867079
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 04:30:01.738869
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 05:30:01.908709
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 06:30:01.832915
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 07:30:01.493586
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 08:30:01.768526
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 09:30:01.678194
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 10:30:01.544992
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 11:30:01.376812
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 12:30:01.227617
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 13:30:01.991423
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 14:30:01.879827
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 15:30:01.608277
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 16:30:01.439831
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 17:30:02.080111
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 18:30:01.586043
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 19:30:01.399563
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 20:30:01.857750
+['./notifier.py', 'quantum']
+43 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-03 21:30:01.209137
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 22:30:01.873114
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-03 23:30:01.598115
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 00:30:02.115435
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 01:30:01.670566
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 02:30:01.473011
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 03:30:02.107254
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 04:30:01.924293
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 05:30:01.591852
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 06:30:01.188755
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 07:30:01.998746
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 08:30:01.723751
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 09:30:01.199863
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 10:30:02.063396
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 11:30:01.484981
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 12:30:01.213907
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 13:30:01.406845
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 14:30:01.247420
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 15:30:02.064953
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 16:30:01.590894
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 17:30:01.519656
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 18:30:01.983901
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 19:30:01.694924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 20:30:01.472229
+['./notifier.py', 'quantum']
+32 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-04 21:30:02.026650
+['./notifier.py', 'quantum']
+21 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-04 22:30:02.044668
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-04 23:30:01.573040
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 00:30:01.307417
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 01:30:01.731784
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 02:30:01.382606
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 03:30:02.130842
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 04:30:01.763238
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 05:30:01.441734
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 06:30:01.197774
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 07:30:01.813749
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 08:30:01.979424
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 09:30:01.430618
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 10:30:01.823846
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 11:30:01.428198
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 12:30:01.949908
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 13:30:01.506147
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 14:30:01.346558
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 15:30:02.158064
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 16:30:01.920970
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 17:30:01.550826
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 18:30:02.270267
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 19:30:01.951641
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 20:30:01.412807
+['./notifier.py', 'quantum']
+26 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-05 21:30:01.918145
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 22:30:01.917196
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-05 23:30:01.995563
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 00:30:01.684332
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 01:30:01.432145
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 02:30:01.913007
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 03:30:01.515800
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 04:30:01.876357
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 05:30:01.490177
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 06:30:02.058948
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 07:30:01.712645
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 08:30:01.962347
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 09:30:01.694470
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 10:30:01.339795
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 11:30:01.453138
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 12:30:01.468045
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 13:30:01.268747
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 14:30:01.819536
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 15:30:01.338625
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 16:30:02.060673
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 17:30:02.014162
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 18:30:01.924516
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 19:30:01.814533
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 20:30:01.708639
+['./notifier.py', 'quantum']
+36 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-06 21:30:01.424561
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 22:30:02.178837
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-06 23:30:01.248816
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 00:30:02.045663
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 01:30:01.279459
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 02:30:02.223556
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 03:30:01.427538
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 04:30:01.623817
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 05:30:01.799228
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 06:30:02.007147
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 07:30:02.096564
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 08:30:02.019854
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 09:30:01.871192
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 10:30:01.663557
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 11:30:02.123220
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 12:30:01.382609
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 13:30:01.293922
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 14:30:01.351035
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 15:30:02.027980
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 16:30:01.371156
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 17:30:01.967205
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 18:30:01.673668
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 19:30:01.447410
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 20:30:01.223737
+['./notifier.py', 'quantum']
+39 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-07 21:30:01.938974
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 22:30:01.878869
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-07 23:30:01.599470
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 00:30:01.311768
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 01:30:01.906491
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 02:30:01.649788
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 03:30:01.594164
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 04:30:01.173930
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 05:30:01.740486
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 06:30:01.725769
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 07:30:01.408910
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 08:30:01.844884
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 09:30:02.061122
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 10:30:01.631871
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 11:30:02.081057
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 12:30:01.899757
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 13:30:01.433014
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 14:30:01.260122
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 15:30:02.064495
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 16:30:01.958182
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 17:30:01.413790
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 18:30:02.100972
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 19:30:01.383799
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 20:30:02.043591
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 21:30:01.925534
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 22:30:01.926312
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-08 23:30:01.552880
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 00:30:01.953272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 01:30:01.657686
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 02:30:02.085270
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 03:30:01.604061
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 04:30:01.982922
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 05:30:01.506631
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 06:30:01.846079
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 07:30:01.374348
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 08:30:01.147507
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 09:30:01.899327
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 10:30:01.984574
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 11:30:01.527119
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 12:30:01.378888
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 13:30:01.925343
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 14:30:02.008905
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 15:30:01.558438
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 16:30:01.155754
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 17:30:01.790575
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 18:30:01.554852
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 19:30:02.096295
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 20:30:01.661560
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 21:30:01.157497
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 22:30:01.668349
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-09 23:30:01.269836
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 00:30:02.060757
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 01:30:01.695389
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 02:30:02.039470
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 03:30:01.710506
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 04:30:01.377676
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 05:30:02.056231
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 06:30:01.663573
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 07:30:02.050689
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 08:30:01.720568
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 09:30:01.675863
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 10:30:01.269343
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 11:30:01.853845
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 12:30:01.509572
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 13:30:01.374767
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 14:30:02.061853
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 15:30:01.811364
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 16:30:01.763880
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 17:30:01.358973
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 18:30:02.249776
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 19:30:01.765545
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 20:30:01.650821
+['./notifier.py', 'quantum']
+41 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-10 21:30:01.940900
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 22:30:01.425072
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-10 23:30:01.257635
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 00:30:02.039418
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 01:30:01.674702
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 02:30:01.770827
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 03:30:01.509677
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 04:30:01.310726
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 05:30:01.949419
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 06:30:02.000935
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 07:30:01.528156
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 08:30:01.357628
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 09:30:01.562620
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 10:30:01.310273
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 11:30:01.838468
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 12:30:01.379723
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 13:30:01.135603
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 14:30:01.298134
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 15:30:01.782459
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 16:30:01.302864
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 17:30:01.722791
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 18:30:01.680077
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 19:30:01.698630
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 20:30:01.435959
+['./notifier.py', 'quantum']
+18 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-11 21:30:02.055361
+['./notifier.py', 'quantum']
+29 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-11 22:30:01.427329
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-11 23:30:01.525817
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 00:30:01.626184
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 01:30:01.563903
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 02:30:01.977849
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 03:30:01.350502
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 04:30:01.662433
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 05:30:01.899211
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 06:30:02.090702
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 07:30:02.191948
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 08:30:02.054391
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 09:30:01.745615
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 10:30:01.935726
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 11:30:01.971144
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 12:30:01.695614
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 13:30:01.917270
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 14:30:02.286370
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 15:30:01.516302
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 16:30:01.914530
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 17:30:01.576255
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 18:30:01.663897
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 19:30:01.822649
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 20:30:01.696150
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-12 21:30:02.064107
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 22:30:01.382231
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-12 23:30:01.624280
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 00:30:01.560404
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 01:30:01.975808
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 02:30:02.113131
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 03:30:01.299559
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 04:30:01.477479
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 05:30:01.732535
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 06:30:01.936085
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 07:30:02.141735
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 08:30:01.800769
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 09:30:02.224973
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 10:30:01.436995
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 11:30:01.509704
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 12:30:01.975022
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 13:30:01.404561
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 14:30:01.888212
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 15:30:01.330392
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 16:30:01.551402
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 17:30:01.654946
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 18:30:01.728672
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 19:30:01.784502
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 20:30:01.722963
+['./notifier.py', 'quantum']
+24 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-13 21:30:01.440168
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 22:30:01.505650
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-13 23:30:01.660521
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 00:30:01.314192
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 01:30:02.262181
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 02:30:02.189519
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 03:30:02.077757
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 04:30:02.041524
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 05:30:01.818925
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 06:30:02.099322
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 07:30:01.937909
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 08:30:02.051464
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 09:30:01.609041
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 10:30:01.375985
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 11:30:01.516640
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 12:30:01.547445
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 13:30:01.266036
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 14:30:01.767241
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 15:30:01.521390
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 16:30:02.095684
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 17:30:01.873566
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 18:30:01.483639
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 19:30:02.011647
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 20:30:02.008267
+['./notifier.py', 'quantum']
+40 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-14 21:30:01.923827
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 22:30:01.625219
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-14 23:30:02.420339
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 00:30:01.538536
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 01:30:01.975623
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 02:30:01.462876
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 03:30:01.780199
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 04:30:01.319738
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 05:30:02.035979
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 06:30:01.237412
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 07:30:01.412185
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 08:30:01.157743
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 09:30:01.840341
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 10:30:01.282521
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 11:30:01.349226
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 12:30:01.440559
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 13:30:01.547929
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 14:30:01.949824
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 15:30:01.496193
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 16:30:02.017577
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 17:30:02.133181
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 18:30:01.227945
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 19:30:01.592418
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 20:30:01.261222
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 21:30:01.275116
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 22:30:01.381097
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-15 23:30:01.958686
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 00:30:01.935697
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 01:30:01.555405
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 02:30:02.092940
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 03:30:01.268622
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 04:30:01.992717
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 05:30:01.581715
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 06:30:02.130649
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 07:30:01.472129
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 08:30:02.064283
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 09:30:01.591779
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 10:30:01.745031
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 11:30:01.436141
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 12:30:01.579298
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 13:30:01.447096
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 14:30:01.934397
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 15:30:01.534167
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 16:30:01.567080
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 17:30:02.093597
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 18:30:01.683081
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 19:30:01.954157
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 20:30:02.078069
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 21:30:01.688925
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 22:30:01.706629
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-16 23:30:01.804751
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 00:30:01.292692
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 01:30:01.808717
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 02:30:01.827706
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 03:30:01.984040
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 04:30:01.635625
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 05:30:01.418959
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 06:30:01.744305
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 07:30:01.983876
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 08:30:01.547244
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 09:30:01.609522
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 10:30:02.007007
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 11:30:02.067197
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 12:30:01.782205
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 13:30:01.239142
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 14:30:01.760165
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 15:30:01.950938
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 16:30:01.455782
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 17:30:02.091910
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 18:30:01.274327
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 19:30:01.884413
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 20:30:01.393494
+['./notifier.py', 'quantum']
+21 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-17 21:30:01.760257
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 22:30:01.179306
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-17 23:30:02.039265
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 00:30:01.789298
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 01:30:01.271658
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 02:30:01.518192
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 03:30:01.808767
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 04:30:01.374766
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 05:30:01.509418
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 06:30:01.915306
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 07:30:01.276587
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 08:30:01.409225
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 09:30:01.875316
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 10:30:02.000868
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 11:30:01.279855
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 12:30:01.905760
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 13:30:01.958697
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 14:30:01.469745
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 15:30:01.938330
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 16:30:01.721995
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 17:30:01.750817
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 18:30:01.744150
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 19:30:01.288464
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 20:30:01.391447
+['./notifier.py', 'quantum']
+34 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-18 21:30:01.832780
+['./notifier.py', 'quantum']
+16 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-18 22:30:01.608885
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-18 23:30:01.729450
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 00:30:01.801922
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 01:30:01.829788
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 02:30:01.379054
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 03:30:01.755137
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 04:30:01.351965
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 05:30:01.452723
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 06:30:01.572910
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 07:30:02.074206
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 08:30:01.407863
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 09:30:01.758931
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 10:30:01.735707
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 11:30:01.171184
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 12:30:01.740965
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 13:30:01.470281
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 14:30:01.555329
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 15:30:01.817443
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 16:30:01.164916
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 17:30:01.779759
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 18:30:01.439015
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 19:30:01.224574
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 20:30:01.504413
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-19 21:30:01.499370
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 22:30:01.328843
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-19 23:30:01.185648
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 00:30:01.850024
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 01:30:02.093434
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 02:30:01.761574
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 03:30:01.534445
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 04:30:01.911112
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 05:30:01.807276
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 06:30:01.524331
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 07:30:01.594178
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 08:30:01.838449
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 09:30:01.622897
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 10:30:01.792463
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 11:30:01.857764
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 12:30:01.641761
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 13:30:01.683681
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 14:30:01.673311
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 15:30:01.679651
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 16:30:01.705817
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 17:30:01.693004
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 18:30:01.452360
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 19:30:01.482441
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 20:30:02.147416
+['./notifier.py', 'quantum']
+37 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-20 21:30:01.514097
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 22:30:01.507920
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-20 23:30:01.420419
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 00:30:01.366887
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 01:30:01.406703
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 02:30:01.372102
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 03:30:02.152094
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 04:30:02.178605
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 05:30:01.937101
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 06:30:01.377934
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 07:30:01.292149
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 08:30:02.105408
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 09:30:02.002419
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 10:30:01.887340
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 11:30:01.947697
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 12:30:01.674587
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 13:30:01.359884
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 14:30:01.679198
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 15:30:01.818136
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 16:30:01.805272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 17:30:01.990767
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 18:30:01.815523
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 19:30:01.892898
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 20:30:01.707723
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-21 21:30:01.314336
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 22:30:01.432613
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-21 23:30:01.847744
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 00:30:01.795231
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 01:30:01.945458
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 02:30:01.612365
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 03:30:01.762328
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 04:30:01.454241
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 05:30:02.030878
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 06:30:02.077964
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 07:30:01.402804
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 08:30:01.245934
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 09:30:01.749207
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 10:30:01.662952
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 11:30:01.204958
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 12:30:01.225069
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 13:30:01.161228
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 14:30:01.561240
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 15:30:02.109873
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 16:30:01.325316
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 17:30:01.740605
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 18:30:01.414025
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 19:30:01.906272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 20:30:01.729322
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 21:30:01.347100
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 22:30:01.841745
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-22 23:30:01.461290
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 00:30:02.041438
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 01:30:02.000587
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 02:30:01.674272
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 03:30:02.136890
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 04:30:01.853140
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 05:30:01.366513
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 06:30:01.918577
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 07:30:01.642018
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 08:30:01.441025
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 09:30:01.951007
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 10:30:01.651866
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 11:30:01.512152
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 12:30:02.048230
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 13:30:01.552064
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 14:30:02.091826
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 15:30:01.662436
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 16:30:01.166955
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 17:30:01.811097
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 18:30:01.355553
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 19:30:01.912511
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 20:30:01.524479
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 21:30:01.994304
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 22:30:01.888986
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-23 23:30:01.550419
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 00:30:02.140845
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 01:30:01.947341
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 02:30:01.516276
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 03:30:02.003787
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 04:30:01.621837
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 05:30:01.257854
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 06:30:01.790258
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 07:30:01.475583
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 08:30:01.978746
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 09:30:01.625016
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 10:30:01.500539
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 11:30:02.016964
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 12:30:01.946764
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 13:30:01.488367
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 14:30:02.009344
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 15:30:01.453803
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 16:30:02.063952
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 17:30:01.616915
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 18:30:02.134690
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 19:30:01.592181
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 20:30:01.253697
+['./notifier.py', 'quantum']
+27 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-24 21:30:01.706404
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 22:30:01.307608
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-24 23:30:02.046494
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 00:30:01.766414
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 01:30:01.412264
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 02:30:01.164663
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 03:30:02.087717
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 04:30:01.452343
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 05:30:01.308048
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 06:30:01.807952
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 07:30:01.217730
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 08:30:01.254087
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 09:30:02.053956
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 10:30:01.237940
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 11:30:02.083595
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 12:30:01.503066
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 13:30:01.698293
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 14:30:01.436240
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 15:30:01.935278
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 16:30:01.350000
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 17:30:01.842372
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 18:30:01.749874
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 19:30:01.384199
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 20:30:01.779980
+['./notifier.py', 'quantum']
+31 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-25 21:30:01.245864
+['./notifier.py', 'quantum']
+22 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-25 22:30:01.686905
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-25 23:30:01.646460
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 00:30:01.361517
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 01:30:01.760433
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 02:30:01.449441
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 03:30:02.046975
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 04:30:01.628338
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 05:30:01.259177
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 06:30:01.540837
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 07:30:01.741616
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 08:30:01.499656
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 09:30:01.174654
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 10:30:01.842949
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 11:30:01.387402
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 12:30:01.940361
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 13:30:01.245219
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 14:30:01.764933
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 15:30:01.389730
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 16:30:01.239265
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 17:30:01.166961
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 18:30:01.918374
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 19:30:01.547389
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 20:30:01.257681
+['./notifier.py', 'quantum']
+36 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-26 21:30:02.055070
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 22:30:01.884977
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-26 23:30:01.871096
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 00:30:01.543710
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 01:30:01.407736
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 02:30:01.196246
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 03:30:02.070153
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 04:30:01.861765
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 05:30:01.656797
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 06:30:01.398796
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 07:30:01.940554
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 08:30:02.122316
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 09:30:01.931084
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 10:30:01.616073
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 11:30:01.320796
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 12:30:01.753728
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 13:30:01.667797
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 14:30:01.359150
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 15:30:01.961685
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 16:30:01.445780
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 17:30:02.115739
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 18:30:01.830549
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 19:30:01.683309
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 20:30:01.256029
+['./notifier.py', 'quantum']
+22 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-27 21:30:01.308873
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 22:30:02.054639
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-27 23:30:01.629721
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 00:30:02.031499
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 01:30:01.466364
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 02:30:01.224790
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 03:30:01.941652
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 04:30:01.711191
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 05:30:01.603213
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 06:30:01.309257
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 07:30:01.965437
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 08:30:01.424714
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 09:30:01.965544
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 10:30:01.503599
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 11:30:01.546269
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 12:30:01.355514
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 13:30:01.863170
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 14:30:01.892263
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 15:30:02.232370
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 16:30:01.781442
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 17:30:01.891166
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 18:30:01.948853
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 19:30:01.906318
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 20:30:01.742999
+['./notifier.py', 'quantum']
+33 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-28 21:30:02.159333
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 22:30:01.376230
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-28 23:30:01.450256
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 00:30:01.346445
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 01:30:01.381270
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 02:30:01.311807
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 03:30:02.168645
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 04:30:02.085280
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 05:30:01.846090
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 06:30:01.682053
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 07:30:02.005863
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 08:30:01.492743
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 09:30:01.198018
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 10:30:02.253374
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 11:30:01.875715
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 12:30:01.643828
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 13:30:01.754595
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 14:30:01.281036
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 15:30:01.668194
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 16:30:02.144092
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 17:30:02.048336
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 18:30:01.471386
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 19:30:01.418690
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 20:30:01.484618
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 21:30:01.516217
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 22:30:01.822716
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-29 23:30:01.954456
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 00:30:02.086296
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 01:30:01.902516
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 02:30:01.741338
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 03:30:02.009513
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 04:30:02.034435
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 05:30:01.902489
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 06:30:01.850537
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 07:30:01.374657
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 08:30:01.438687
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 09:30:01.677168
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 10:30:01.779762
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 11:30:01.449139
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 12:30:01.674366
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 13:30:01.682078
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 14:30:01.518897
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 15:30:01.254603
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 16:30:02.112373
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 17:30:02.000055
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 18:30:01.641291
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 19:30:01.502777
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 20:30:01.430824
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 21:30:01.455688
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 22:30:01.369808
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-30 23:30:01.489775
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 00:30:01.333194
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 01:30:02.098807
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 02:30:02.120491
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 03:30:01.911754
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 04:30:01.629322
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 05:30:01.488635
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 06:30:01.418846
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 07:30:01.191124
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 08:30:01.580166
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 09:30:01.580303
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 10:30:01.539491
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 11:30:02.054593
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 12:30:01.646109
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 13:30:01.454956
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 14:30:02.141595
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 15:30:01.872344
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 16:30:01.724924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 17:30:01.589358
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 18:30:01.375240
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 19:30:01.285598
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 20:30:02.027605
+['./notifier.py', 'quantum']
+46 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-08-31 21:30:01.759447
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 22:30:01.669649
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-08-31 23:30:01.419478
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 00:30:02.161162
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 01:30:02.160510
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 02:30:01.293972
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 03:30:01.591750
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 04:30:01.205955
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 05:30:01.442831
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 06:30:01.546968
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 07:30:01.422518
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 08:30:01.167471
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 09:30:01.394405
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 10:30:01.294199
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 11:30:01.700143
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 12:30:01.829560
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 13:30:01.867291
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 14:30:02.066599
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 15:30:01.822243
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 16:30:01.534119
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 17:30:01.852406
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 18:30:01.637894
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 19:30:01.779098
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 20:30:01.683637
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 21:30:01.595444
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 22:30:01.816349
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-01 23:30:01.948250
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 00:30:01.658494
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 01:30:01.763470
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 02:30:02.080837
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 03:30:01.836145
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 04:30:01.686390
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 05:30:01.496893
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 06:30:01.668059
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 07:30:01.647777
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 08:30:01.615384
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 09:30:01.558606
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 10:30:01.637236
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 11:30:01.984971
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 12:30:01.766991
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 13:30:01.478779
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 14:30:01.529437
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 15:30:01.406825
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 16:30:01.355076
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 17:30:01.444777
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 18:30:01.244930
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 19:30:01.884927
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-02 20:30:01.896006
+['./notifier.py', 'quantum']
+37 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-02 21:30:02.122010
+['./notifier.py', 'quantum']
+41 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-02 22:30:01.479605
+['./notifier.py', 'quantum']
+13 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-02 23:30:01.246683
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 00:30:01.881092
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 01:30:01.688398
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 02:30:01.782660
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 03:30:02.156955
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 04:30:01.341285
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 05:30:01.612805
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 06:30:01.425792
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 07:30:01.334021
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 08:30:01.601764
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 09:30:01.841708
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 10:30:01.614093
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 11:30:01.722247
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 12:30:01.589223
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 13:30:02.107766
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 14:30:01.605972
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 15:30:01.257698
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 16:30:02.028435
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 17:30:01.904868
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 18:30:01.515146
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 19:30:01.986420
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 20:30:01.624446
+['./notifier.py', 'quantum']
+45 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-03 21:30:01.401258
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 22:30:01.413201
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-03 23:30:01.146809
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 00:30:02.017616
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 01:30:01.815449
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 02:30:01.628041
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 03:30:01.482912
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 04:30:01.997448
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 05:30:02.011361
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 06:30:01.853497
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 07:30:01.644104
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 08:30:01.484928
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 09:30:01.913104
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 10:30:01.785310
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 11:30:01.598598
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 12:30:01.382634
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 13:30:01.170948
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 14:30:01.784268
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 15:30:01.762841
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 16:30:01.582022
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 17:30:01.339915
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 18:30:01.900843
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 19:30:01.625072
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 20:30:01.973139
+['./notifier.py', 'quantum']
+38 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-04 21:30:01.887979
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 22:30:01.418611
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-04 23:30:02.129701
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 00:30:01.976924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 01:30:01.541377
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 02:30:01.157742
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 03:30:02.037764
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 04:30:01.838056
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 05:30:01.393248
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 06:30:02.075959
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 07:30:01.681312
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 08:30:01.578933
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 09:30:01.191045
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 10:30:01.724693
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 11:30:01.730293
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 12:30:01.534289
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 13:30:01.600567
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 14:30:02.098868
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 15:30:02.046316
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 16:30:01.656904
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 17:30:01.186909
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 18:30:01.801171
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 19:30:01.876978
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 20:30:01.410317
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 21:30:01.446591
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 22:30:01.356110
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-05 23:30:02.022298
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 00:30:01.767394
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 01:30:01.747831
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 02:30:01.823943
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 03:30:01.676452
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 04:30:01.742074
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 05:30:01.354170
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 06:30:01.200448
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 07:30:02.076720
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 08:30:02.058657
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 09:30:01.651619
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 10:30:01.232679
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 11:30:01.804575
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 12:30:01.311832
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 13:30:01.898962
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 14:30:01.769234
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 15:30:01.329972
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 16:30:01.888407
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 17:30:01.875993
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 18:30:01.864718
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 19:30:01.502277
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 20:30:01.909388
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 21:30:01.817806
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 22:30:01.354001
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-06 23:30:01.842657
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 00:30:01.996860
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 01:30:01.518461
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 02:30:02.017900
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 03:30:01.864496
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 04:30:01.799627
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 05:30:01.290986
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 06:30:01.187746
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 07:30:02.077778
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 08:30:02.042000
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 09:30:01.728559
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 10:30:01.590093
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 11:30:01.470926
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 12:30:01.365341
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 13:30:02.054468
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 14:30:01.716077
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 15:30:01.616856
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 16:30:01.592534
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 17:30:02.122808
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 18:30:01.628925
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 19:30:01.202688
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 20:30:01.867221
+['./notifier.py', 'quantum']
+45 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-07 21:30:02.100799
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 22:30:01.331074
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-07 23:30:01.515168
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 00:30:01.212744
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 01:30:01.645886
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 02:30:01.724444
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 03:30:01.170871
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 04:30:01.200008
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 05:30:01.189199
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 06:30:01.638905
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 07:30:01.611448
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 08:30:01.756828
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 09:30:01.762115
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 10:30:01.758659
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 11:30:01.365523
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 12:30:01.798865
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 13:30:01.569242
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 14:30:01.364592
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 15:30:01.452158
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 16:30:01.623068
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 17:30:02.095197
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 18:30:01.643354
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 19:30:01.859438
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 20:30:01.754965
+['./notifier.py', 'quantum']
+35 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-08 21:30:02.026723
+['./notifier.py', 'quantum']
+17 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-08 22:30:01.521682
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-08 23:30:01.618879
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 00:30:01.288560
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 01:30:01.808117
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 02:30:01.575347
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 03:30:01.587455
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 04:30:01.726577
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 05:30:02.069796
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 06:30:01.586823
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 07:30:01.528157
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 08:30:01.224195
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 09:30:02.008589
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 10:30:01.915951
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 11:30:01.958644
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 12:30:01.834168
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 13:30:01.365071
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 14:30:01.425434
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 15:30:01.224337
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 16:30:01.757598
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 17:30:01.910408
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 18:30:01.755622
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 19:30:01.666161
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 20:30:01.669318
+['./notifier.py', 'quantum']
+55 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-09 21:30:01.172271
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 22:30:02.027459
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-09 23:30:01.845203
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 00:30:01.492809
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 01:30:01.134109
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 02:30:01.704477
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 03:30:01.515407
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 04:30:01.316915
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 05:30:01.449004
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 06:30:01.262692
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 07:30:01.880030
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 08:30:02.032934
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 09:30:01.800598
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 10:30:01.548320
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 11:30:01.399968
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 12:30:01.277992
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 13:30:01.480576
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 14:30:01.426789
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 15:30:02.094105
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 16:30:01.744924
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 17:30:01.298032
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 18:30:01.785551
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 19:30:01.741887
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 20:30:01.635673
+['./notifier.py', 'quantum']
+27 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-10 21:30:01.597824
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 22:30:01.397953
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-10 23:30:02.151091
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 00:30:02.029016
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 01:30:01.883723
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 02:30:02.209238
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 03:30:02.131151
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 04:30:02.080609
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 05:30:01.480568
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 06:30:01.535620
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 07:30:01.411212
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 08:30:01.640125
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 09:30:01.230441
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 10:30:02.112869
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 11:30:02.143629
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 12:30:01.446418
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 13:30:01.530689
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 14:30:01.906328
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 15:30:01.308034
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 16:30:01.451092
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 17:30:01.336970
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 18:30:01.248318
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 19:30:01.288560
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 20:30:01.626455
+['./notifier.py', 'quantum']
+42 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-11 21:30:01.453524
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 22:30:01.411425
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-11 23:30:01.337798
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 00:30:01.316398
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 01:30:01.501290
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 02:30:02.072389
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 03:30:01.224716
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 04:30:01.590402
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 05:30:01.762373
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 06:30:01.946415
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 07:30:01.170643
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 08:30:02.218339
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 09:30:01.487038
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 10:30:01.733030
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 11:30:02.043423
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 12:30:01.774737
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 13:30:01.824979
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 14:30:01.278930
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 15:30:01.586569
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 16:30:01.695418
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 17:30:01.873670
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 18:30:02.062142
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 19:30:01.877174
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 20:30:01.890033
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 21:30:01.679777
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 22:30:01.817182
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-12 23:30:01.503878
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 00:30:01.231732
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 01:30:01.966888
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 02:30:01.954072
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 03:30:01.360037
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 04:30:01.243888
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 05:30:01.342599
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 06:30:01.170116
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 07:30:01.897111
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 08:30:01.650135
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 09:30:01.697110
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 10:30:01.732646
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 11:30:01.528209
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 12:30:01.684682
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 13:30:02.121583
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 14:30:01.168511
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 15:30:02.071535
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 16:30:01.190463
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 17:30:02.045164
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 18:30:02.014996
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 19:30:02.021147
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 20:30:02.083998
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 21:30:01.208450
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 22:30:01.421351
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-13 23:30:01.825096
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 00:30:01.610422
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 01:30:01.608217
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 02:30:01.675345
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 03:30:01.794582
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 04:30:01.517345
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 05:30:01.165104
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 06:30:01.925051
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 07:30:01.156658
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 08:30:02.119769
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 09:30:01.819555
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 10:30:01.582993
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 11:30:01.537334
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 12:30:01.244992
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 13:30:01.323096
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 14:30:01.288603
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 15:30:01.352166
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 16:30:01.998254
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 17:30:01.633060
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 18:30:02.079384
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 19:30:01.594702
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 20:30:01.285340
+['./notifier.py', 'quantum']
+20 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-14 21:30:01.570035
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 22:30:01.889074
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-14 23:30:01.998916
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 00:30:01.693358
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 01:30:01.647893
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 02:30:01.336417
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 03:30:01.332368
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 04:30:02.112904
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 05:30:01.143262
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 06:30:01.164301
+['./notifier.py', 'quantum']
+Traceback (most recent call last):
+  File "/home/jchadwick/arxivbot/./notifier.py", line 15, in main
+    run(url)
+  File "/home/jchadwick/arxivbot/./notifier.py", line 31, in run
+    s.scrape()
+  File "/home/jchadwick/arxivbot/scrape.py", line 47, in scrape
+    self._setup_result_nodes()
+  File "/home/jchadwick/arxivbot/scrape.py", line 81, in _setup_result_nodes
+    self._result_nodes = self._scrape_nodes(self.url)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jchadwick/arxivbot/scrape.py", line 86, in _scrape_nodes
+    assert 200 <= response.status_code < 400, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+
+URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+Running script at 2025-09-15 07:30:01.771235
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 08:30:01.690999
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 09:30:02.072043
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 10:30:01.849291
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 11:30:01.270630
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 12:30:01.171491
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 13:30:01.219801
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 14:30:01.993689
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 15:30:01.717392
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 16:30:01.606155
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 17:30:01.525199
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 18:30:01.566130
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 19:30:01.495129
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-15 20:30:01.461866
+['./notifier.py', 'quantum']
+42 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-15 21:30:01.720130
+['./notifier.py', 'quantum']
+Traceback (most recent call last):
+  File "/home/jchadwick/arxivbot/./notifier.py", line 15, in main
+    run(url)
+  File "/home/jchadwick/arxivbot/./notifier.py", line 31, in run
+    s.scrape()
+  File "/home/jchadwick/arxivbot/scrape.py", line 47, in scrape
+    self._setup_result_nodes()
+  File "/home/jchadwick/arxivbot/scrape.py", line 81, in _setup_result_nodes
+    self._result_nodes = self._scrape_nodes(self.url)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jchadwick/arxivbot/scrape.py", line 86, in _scrape_nodes
+    assert 200 <= response.status_code < 400, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+
+URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+Running script at 2025-09-15 22:30:02.003720
+['./notifier.py', 'quantum']
+21 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-15 23:30:01.631658
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 00:30:01.865743
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 01:30:01.902274
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 02:30:01.961968
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 03:30:01.277297
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 04:30:01.722717
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 05:30:01.714964
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 06:30:01.728620
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 07:30:01.652836
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 08:30:01.683127
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 09:30:01.851836
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 10:30:01.875346
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 11:30:01.853643
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 12:30:01.269870
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 13:30:02.059265
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 14:30:01.558611
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 15:30:01.662352
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 16:30:01.519087
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 17:30:01.999399
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 18:30:01.367808
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 19:30:01.208130
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 20:30:02.094723
+['./notifier.py', 'quantum']
+35 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-16 21:30:01.214162
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 22:30:01.136789
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-16 23:30:01.570172
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 00:30:01.163270
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 01:30:02.116861
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 02:30:01.705798
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 03:30:01.262650
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 04:30:01.340717
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 05:30:01.900520
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 06:30:01.848676
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 07:30:01.805616
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 08:30:01.703476
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 09:30:01.814136
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 10:30:01.601103
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 11:30:01.551244
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 12:30:01.374804
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 13:30:01.900409
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 14:30:01.259839
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 15:30:01.287900
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 16:30:01.642400
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 17:30:01.248801
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 18:30:01.898712
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 19:30:01.985648
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 20:30:01.687828
+['./notifier.py', 'quantum']
+Traceback (most recent call last):
+  File "/home/jchadwick/arxivbot/./notifier.py", line 15, in main
+    run(url)
+  File "/home/jchadwick/arxivbot/./notifier.py", line 31, in run
+    s.scrape()
+  File "/home/jchadwick/arxivbot/scrape.py", line 47, in scrape
+    self._setup_result_nodes()
+  File "/home/jchadwick/arxivbot/scrape.py", line 81, in _setup_result_nodes
+    self._result_nodes = self._scrape_nodes(self.url)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jchadwick/arxivbot/scrape.py", line 86, in _scrape_nodes
+    assert 200 <= response.status_code < 400, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+
+URL returned status code 429: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22quantum+circuit%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22qubit%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22quantum+computer%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22quantum+error+correction%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22quantum+algorithm%22&terms-5-field=all&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first
+Running script at 2025-09-17 21:30:01.282756
+['./notifier.py', 'quantum']
+27 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-17 22:30:01.565727
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-17 23:30:01.774784
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 00:30:01.555720
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 01:30:01.832575
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 02:30:01.667271
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 03:30:01.364553
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 04:30:01.741228
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 05:30:01.732957
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 06:30:02.046639
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 07:30:01.804112
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 08:30:01.637505
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 09:30:01.439348
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 10:30:01.398323
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 11:30:01.687354
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 12:30:02.006037
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 13:30:01.575829
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 14:30:01.272400
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 15:30:01.463204
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 16:30:01.725187
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 17:30:01.961917
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 18:30:01.247565
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 19:30:01.158851
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 20:30:01.385336
+['./notifier.py', 'quantum']
+38 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-18 21:30:01.250979
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 22:30:01.831859
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-18 23:30:01.486321
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 00:30:02.074391
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 01:30:01.562884
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 02:30:01.993785
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 03:30:01.595247
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 04:30:02.021532
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 05:30:01.607148
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 06:30:01.230159
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 07:30:01.657264
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 08:30:01.400325
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 09:30:01.887288
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 10:30:01.640424
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 11:30:02.074533
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 12:30:01.492538
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 13:30:02.110440
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 14:30:01.559500
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 15:30:01.967150
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 16:30:01.481855
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 17:30:02.013848
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 18:30:01.508834
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 19:30:02.039073
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 20:30:01.455045
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 21:30:01.911720
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 22:30:01.521842
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-19 23:30:01.229367
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 00:30:01.842575
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 01:30:01.798659
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 02:30:01.422587
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 03:30:01.163986
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 04:30:01.884886
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 05:30:01.658313
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 06:30:01.993484
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 07:30:01.532524
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 08:30:01.142374
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 09:30:01.598591
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 10:30:01.225280
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 11:30:01.652838
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 12:30:01.348731
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 13:30:01.659979
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 14:30:02.123306
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 15:30:01.937646
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 16:30:01.344490
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 17:30:01.798256
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 18:30:01.453722
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 19:30:01.995476
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 20:30:01.577644
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 21:30:01.173678
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 22:30:01.676866
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-20 23:30:01.148134
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 00:30:01.651390
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 01:30:02.022995
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 02:30:01.342355
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 03:30:01.492732
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 04:30:01.914432
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 05:30:01.363196
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 06:30:02.072004
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 07:30:01.562171
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 08:30:02.052396
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 09:30:01.510967
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 10:30:01.158564
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 11:30:01.618716
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 12:30:02.136887
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 13:30:01.757904
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 14:30:01.226751
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 15:30:01.752813
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 16:30:01.250655
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 17:30:01.807415
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 18:30:01.331686
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 19:30:01.596083
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 20:30:01.828562
+['./notifier.py', 'quantum']
+34 new results
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Running script at 2025-09-21 21:30:01.812471
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 22:30:01.352043
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-21 23:30:01.167549
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 00:30:01.478236
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 01:30:01.251866
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 02:30:02.088314
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 03:30:01.513768
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 04:30:01.902058
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 05:30:02.093282
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 06:30:01.641342
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 07:30:01.350429
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 08:30:01.171773
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 09:30:01.774831
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 10:30:01.236615
+['./notifier.py', 'quantum']
+0 new results
+Running script at 2025-09-22 11:30:01.787868
+['./notifier.py', 'quantum']
+0 new results

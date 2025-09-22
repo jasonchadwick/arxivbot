@@ -124,7 +124,7 @@ Authors: {author_list}
             comment_list = ''
         info_str = (
 '''{category_id} (_{category_name}_)
-<{url}|*arXiv:{paper_id}{version}*> [<{pdf_url}|*pdf*>]
+<{url}|arXiv:{paper_id}{version}> [<{pdf_url}|pdf>]
 _Submitted:_ {submit_date:%Y-%m-%d}{announce_str}{comment_list}'''
             .format(url=escape_slack(self.abs_url()),
                     pdf_url=escape_slack(self.pdf_url()),

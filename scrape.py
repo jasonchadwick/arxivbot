@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 
 from result_info import ResultInfo
 
-
 class Scraper:
     QUERY_PREFIX = 'https://arxiv.org/search/advanced?'
     DEFAULT_SEARCH_QUERY = {
@@ -20,19 +19,27 @@ class Scraper:
         'terms-2-term':'"qubit"',
         'terms-2-field':'all',
         'terms-3-operator':'OR',
-        'terms-3-term':'"qutrit"',
+        'terms-3-term':'"quantum computer"',
         'terms-3-field':'all',
         'terms-4-operator':'OR',
-        'terms-4-term':'"qudit"',
+        'terms-4-term':'"quantum error"',
         'terms-4-field':'all',
-        'classification-physics_archives':'all',
+        'terms-5-operator':'OR',
+        'terms-5-term':'"quantum algorithm"',
+        'terms-5-field':'all',
+        'terms-6-operator':'OR',
+        'terms-6-term':'"quantum-classical"',
+        'terms-6-field':'all',
+        'classification-physics':'y',
+        'classification-physics_archives':'quant-ph',
+        'classification-include_cross_list':'include',
         'date-filter_by':'all_dates',
         'date-year':'',
         'date-from_date':'',
         'date-to_date':'',
         'date-date_type':'submitted_date',
         'abstracts':'show',
-        'size':'50',
+        'size':'100',
         'order':'-announced_date_first',
     }
 
