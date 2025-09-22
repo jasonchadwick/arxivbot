@@ -6,9 +6,7 @@ import requests
 from datetime import datetime
 
 import scrape
-from config import ID_LOGS, SLACK_POSTS
-
-THEORY_URL = 'https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.CC&terms-0-field=all&terms-2-operator=OR&terms-2-term=cs.DS&terms-2-field=all&terms-3-operator=AND&terms-3-term=quantum&terms-3-field=all&terms-4-operator=OR&terms-4-term=cs.DS&terms-4-field=all&terms-5-operator=AND&terms-5-term=graphs&terms-5-field=all&terms-6-operator=OR&terms-6-term=cs.CR&terms-6-field=all&terms-7-operator=AND&terms-7-term=quantum&terms-7-field=all&terms-8-operator=OR&terms-8-term=cs.CR&terms-8-field=all&terms-9-operator=AND&terms-9-term=pseudorandom&terms-9-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first'
+from config import ID_LOG, SLACK_POST
 
 def main(url=None):
     try:
@@ -80,14 +78,4 @@ def slack_post_raw(**msg):
 
 if __name__ == '__main__':
     print("Running script at", datetime.now())
-    print(sys.argv)
-    if sys.argv[1] == 'theory':
-        ID_LOG = ID_LOGS['theory']
-        SLACK_POST = SLACK_POSTS['theory']
-        main(url=THEORY_URL)
-    elif sys.argv[1] == 'quantum':
-        ID_LOG = ID_LOGS['quantum']
-        SLACK_POST = SLACK_POSTS['quantum']
-        main()
-    else:
-        print("bad argument; which query do I use?")
+    main()
